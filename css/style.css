@@ -1,14 +1,7 @@
-.content-area {
-  width: 1280px;
-  height: 600px;
-  background-color: grey;
-  margin: 0 auto;
-}
-
 .move-text {
   height: 600px;
   width: 75%;
-  background-color: #465362;
+  background-color: #E0E1DD;
   margin: 0 auto;
 }
 
@@ -31,7 +24,7 @@
 }
 
 .text-field:focus {
-  border: 2px solid aqua;
+  border: 3px solid #415A77;
 }
 
 .icon {
@@ -56,8 +49,8 @@
           box-sizing: border-box;
 }
 
-.text-field:focus2 {
-  border: 2px solid aqua;
+.text-field2:focus {
+  border: 3px solid #415A77;
 }
 
 .icon2 {
@@ -67,7 +60,7 @@
 }
 
 .input-wrapper3 {
-  background-color: aqua;
+  background-color: #415A77;
   width: 50%;
   position: relative;
   margin-top: 30px;
@@ -82,8 +75,8 @@
           box-sizing: border-box;
 }
 
-.text-field:focus3 {
-  border: 2px solid aqua;
+.text-field3:focus {
+  border: 3px solid #415A77;
 }
 
 .icon3 {
@@ -108,8 +101,8 @@
           box-sizing: border-box;
 }
 
-.text-field:focus4 {
-  border: 2px solid aqua;
+.text-field4:focus {
+  border: 3px solid #415A77;
 }
 
 .icon4 {
@@ -134,8 +127,8 @@
           box-sizing: border-box;
 }
 
-.text-field:focus5 {
-  border: 2px solid aqua;
+.text-field5:focus {
+  border: 2px solid #415A77;
 }
 
 .icon5 {
