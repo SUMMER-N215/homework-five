@@ -1,7 +1,174 @@
-.form-wrapper{
-    width: 980px;
+.content-area{
+    width: 1280px;
     height: 600px;
-    background-color: #4EA5D9;
+    background-color: grey;
     margin: 0 auto;
-    margin-top: 15px;
+    
+    
+    
 }
+
+
+.move-text{
+    height: 600px;
+    width: 75%;
+    background-color: #465362;
+    margin: 0 auto;
+    
+}
+
+
+
+.input-wrapper{
+    top: 10px;
+   background-color: aqua;
+   width: 50%;
+   position: relative;
+   left: 200px;
+   
+  
+   
+}
+
+.text-field {
+    align-content: center;
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    box-sizing: border-box;
+    
+
+} 
+
+.text-field:focus{
+    border: 2px solid aqua;
+
+}
+
+.icon{
+   
+position: absolute;
+right: 20px;
+top: 11px;
+
+}
+
+.input-wrapper2{
+    
+    background-color: aqua;
+    width: 50%;
+    position: relative;
+    margin-top: 30px;
+    left: 200px;
+ }
+ 
+ .text-field2 {
+     width: 100%;
+     padding: 10px;
+     outline: none;
+     box-sizing: border-box;
+ 
+ } 
+ 
+ .text-field:focus2{
+     border: 2px solid aqua;
+ 
+ }
+ 
+ .icon2{
+    
+ position: absolute;
+ right: 20px;
+ top: 11px;
+ 
+ }
+
+ .input-wrapper3{
+    
+    background-color: aqua;
+    width: 50%;
+    position: relative;
+    margin-top: 30px;
+    left: 200px;
+ }
+ 
+ .text-field3 {
+     width: 100%;
+     padding: 10px;
+     outline: none;
+     box-sizing: border-box;
+ 
+ } 
+ 
+ .text-field:focus3{
+     border: 2px solid aqua;
+ 
+ }
+ 
+ .icon3{
+    
+ position: absolute;
+ right: 20px;
+ top: 11px;
+ 
+ }
+
+ .input-wrapper4{
+    
+    background-color: aqua;
+    width: 50%;
+    position: relative;
+    margin-top: 30px;
+    left: 200px;
+ }
+ 
+ .text-field4 {
+     width: 100%;
+     padding: 10px;
+     outline: none;
+     box-sizing: border-box;
+ 
+ } 
+ 
+ .text-field:focus4{
+     border: 2px solid aqua;
+ 
+ }
+ 
+ .icon4{
+    
+ position: absolute;
+ right: 20px;
+ top: 11px;
+ 
+ }
+
+ .input-wrapper5{
+    
+    background-color: aqua;
+    width: 50%;
+    position: relative;
+    margin-top: 30px;
+    left: 200px;
+ }
+ 
+ .text-field5 {
+     width: 100%;
+     padding: 10px;
+     outline: none;
+     box-sizing: border-box;
+ 
+ } 
+ 
+ .text-field:focus5{
+     border: 2px solid aqua;
+ 
+ }
+ 
+ .icon5{
+    
+ position: absolute;
+ right: 20px;
+ top: 11px;
+ 
+ }
